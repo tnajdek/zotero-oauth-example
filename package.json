@@ -1,0 +1,18 @@
+{
+  "name": "zotero-oauth-client-example",
+  "description": "Minimal example showing how to use Zotero API authenticating via oAuth",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "oauth-1.0a": "^2.2.4",
+    "zotero-api-client": "^0.20.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "4.12.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js"
+}
